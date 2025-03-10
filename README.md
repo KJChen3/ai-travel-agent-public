@@ -13,7 +13,10 @@ AI Travel Agent 是一個 Web App，讓使用者可以自訂客製化的旅遊�
 - **前端**：HTML + CSS + JavaScript
 - **後端**：PHP
 - **API**：OpenAI API
-- **資料庫**：PHP
+- **資料庫**：MySQL
+
+## 💡 原理
+將前端輸入的客製化選項傳到後端組成 prompt，並 call OpenAI API，再將生成的結果傳回前端顯示，可選擇是否儲存進 MySQL 資料庫。
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
