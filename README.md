@@ -1,3 +1,20 @@
+# 🚀 AI Travel Agent
+
+## 📖 專案簡介
+AI Travel Agent 是一個 Web App，讓使用者可以自訂客製化的旅遊選項，並依此幫使用者生成旅遊行程。
+主要功能：
+- ✅ **使用者註冊 & 登入**
+- ✅ **自訂客製化需求**
+- ✅ **一鍵生成行程**
+- ✅ **收藏行程**
+
+## 🔧 技術使用
+- **框架**：Laravel
+- **前端**：HTML + CSS + JavaScript
+- **後端**：PHP
+- **API**：OpenAI API
+- **資料庫**：PHP
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
